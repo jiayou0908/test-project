@@ -1,0 +1,13 @@
+#stock_prices {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+#stock_prices div {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 200px;
+    text-align: center;
+}
